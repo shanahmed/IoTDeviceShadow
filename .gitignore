@@ -1,0 +1,13 @@
+deviceshadow/IoT.DeviceShadow.Grain.Contract/obj/
+deviceshadow/IoT.DeviceShadow.Grain/obj/
+deviceshadow/IoT.DeviceShadow.Silo/bin/
+deviceshadow/IoT.DeviceShadow.Silo/obj/
+deviceshadow/packages/
+deviceshadow/IoT.DeviceShadow.Grain/bin/
+deviceshadow/IoT.DeviceShadow.Grain.Contract/bin/
+deviceshadow/IoT.DeviceShadow.Client/obj/
+deviceshadow/IoT.DeviceShadow.Client/bin/
+deviceshadow/.vs/
+common/IoT.DeviceShadow.Utils/obj/
+common/IoT.DeviceShadow.Utils/bin/
+common/.vs/
